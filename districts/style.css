@@ -1,0 +1,253 @@
+.navbar{
+    width:100%;
+    height: 167px;
+    background-color: #1E4A63;
+    /* color: white; */
+}
+.collapse{
+    margin-left: 30px;
+}
+.nav-link{
+    color: whitesmoke;
+    margin-left: 20px;
+    /* top: 75px;
+    left: 300px;
+    width: 767px;
+    height: 22px;
+    text-align: left; */
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 550;
+}
+.nav-link:hover{
+    color: whitesmoke;
+    /* text-decoration: underline; */
+
+    border-bottom: 3px solid ;
+    border-color: #009A4E;
+    /* text-underline-position:under; */
+    /* text-decoration-color:  #009A4E; */
+    /* font-weight: bolder; */
+    
+}
+
+.active{
+   /* background-color:#009A4E ; */
+   /* margin-left: 20px; */
+   text-align: center;
+   border-bottom: 3px solid ;
+    border-color: #009A4E;
+    /* font-weight: 800; */
+   /* padding-left: -10px; */
+}
+.signin{
+    width:130px;
+    height:52px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-left: 10px;
+    text-decoration: none;
+    /* background-color: #009A4E; */
+   
+}
+.signin:hover{
+    color: white;
+    text-decoration: none;
+ border:3px solid;
+    border-color:white ;
+    border-radius: 25px 25px 25px 25px ;
+}
+.signup{
+    width:130px;
+    height:52px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-left: 10px;
+    text-decoration: none;
+    
+    border:3px solid; 
+    border-color:white ; 
+    border-radius: 25px 25px 25px 25px ; 
+}
+
+.signup:hover{
+    text-decoration: none;
+    color: white;
+background-color: #009A4E;
+}
+
+#logo{
+top: 42px;
+left: 124px;
+width: 122px;
+height: 73px;
+}
+
+.logonav{
+    width: 150px;
+}
+.Sign{
+    color:yellow;
+    align-self: flex-end;
+}
+
+form{
+    /* width:33% ; */
+    margin-top: 30px;
+    margin-left: 10%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+        /* height: 10%; */
+    margin-right: 50%;
+}
+form img{
+    /* -ms-transform: translateX(-50%);
+  transform: translateX(-50%); */
+ margin-left: 25%;
+/* margin-right: 50%; */ 
+top: 256px;
+left: 876px;
+width: 168px;
+height: 101px;
+}
+
+form input{
+    top: 429px;
+left: 679px;
+width: 500px;
+height: 50px;
+background-color: #EBE7E7;
+border-color: white;
+}
+
+form div{
+    margin-top: 20px;
+}
+form button{
+    margin-left: 35%;
+    /* margin-right: 50%; */
+}
+
+form .btn-primary{
+    background-color:#00C162;
+    color: whitesmoke;
+}
+.caption{
+    background-color: whitesmoke;
+}
+
+.keralam
+{    
+height:400px;
+    margin-top: 40px;
+    margin-left:20px ;
+}
+/* .mapmalappuram{
+    width: 100px;
+    height: 100px;
+
+} */
+
+/* .map{
+
+    /* margin-left: 10%; */
+    
+.desc2
+{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    padding-right:150px ;
+    letter-spacing: 3px;
+    margin-top: 30px;
+}
+
+.desc1{
+    /* width: 269px;
+height: 62px; */
+    font-family: 'Roboto', sans-serif;
+    font-size: 52px;
+    color: #414042;
+    letter-spacing: 5px;
+    /* font-weight: bold; */
+    /* padding-left: 50px; */
+    margin-top: 100px;  
+    /* top: 275px;
+left: 735px; */
+
+
+}
+.cls-1:hover{
+    fill:skyblue;
+}
+.cls-2:hover{
+    fill:skyblue;
+}
+.cls-3:hover{
+    fill:skyblue;
+}
+.cls-4:hover{
+    fill:skyblue;
+}
+.cls-5:hover{
+    fill:skyblue;
+}
+.cls-6:hover{
+    fill:skyblue;
+}
+.cls-7:hover{
+    fill:skyblue;
+}
+.cls-8:hover{
+    fill:skyblue;
+}
+.cls-9:hover{
+    fill:skyblue;
+}
+.cls-10:hover{
+    fill:skyblue;
+}
+.cls-11:hover{
+    fill:skyblue;
+}
+.cls-12:hover{
+    fill:skyblue;
+}
+.cls-13:hover{
+    fill:skyblue;
+}
+.cls-14:hover{
+    fill:skyblue;
+}
+.cls-1{
+    width:100px;
+    height:100px;
+}
+footer{
+    width:100%;
+    height: 350px;
+    background-color: #1E4A63;
+    margin-top:250px; 
+    /* border-top-left-radius: 200px;
+    border-top-right-radius: 200px;       */
+}
+
+footer p{
+    margin-top:10%;
+    margin-left: 20%;
+    color: whitesmoke;
+}
+
+.tabs{
+   margin-left: 100px;
+    margin-top: 30px;
+}
+a{
+    text-decoration: none;
+    color:inherit
+}
